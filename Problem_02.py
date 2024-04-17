@@ -8,7 +8,7 @@ def get_tshirt(brand_name, size=0):
     user_name = get_name()
     
     Brands=[]#empty brand list
-    for i in range(int(input("Total no of brand Avalable :"))):#loop for entering brand name of tshirt
+    for i in range(int(input("Total no of brand Available :"))):#loop for entering brand name of tshirt
         Brands.append(input(f"Enter brand name {i}: "))
         i=i+1
     print("Available brands:", Brands)
