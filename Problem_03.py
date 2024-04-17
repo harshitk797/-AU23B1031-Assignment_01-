@@ -14,4 +14,4 @@ def get_order(orders):#define function for correct arrangement of preparing and 
             print(lis.pop())
         
 orders="order"
-get_order(orders)     
+get_order(orders)
