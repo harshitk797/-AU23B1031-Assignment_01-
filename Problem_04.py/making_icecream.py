@@ -6,6 +6,6 @@ ice_cream.add_topping("large", "sprinkles", "hot fudge")
 
 ice_cream.make_shake("nuts")
 
-add_topping("small", "whipped cream", "crushed nuts")
+ice_cream.add_topping("small", "whipped cream", "crushed nuts")
 
-make_shake("chocolate")
+ice_cream.make_shake("chocolate")
