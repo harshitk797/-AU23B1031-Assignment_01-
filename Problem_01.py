@@ -16,3 +16,5 @@ def get_tshirt(brand_name):
     else:
         print(f"Hi {user_name}, Unfortunately the brand you are looking for is not available in our store.")
             
+brand_name = "Brands"
+get_tshirt(brand_name)
